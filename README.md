@@ -51,9 +51,9 @@ I'm a Computer Science graduate from Admas University with a passion for softwar
 
 A secure web-based voting platform designed to improve transparency and efficiency in election processes through voter registration, authentication, vote casting, and result management. Built with **HTML, CSS, JavaScript, and MySQL**.
 
-### 📦 [Inventory Management System](https://github.com/DuDu21cs/Inventory-Management-System)
+### 📦 [Inventory Management System](https://github.com/DuDu21cs/-Inventory-Management-System-)
 
-A database-driven application for managing inventory records, stock tracking, and product management. Built with **Node.js, MySQL, and HTML/CSS** — features CRUD operations and a dashboard view.
+StockMate is a full-stack inventory management app built with the PERN stack (PostgreSQL, Express, React, Node.js). Features CRUD operations, a dynamic dashboard, low stock alerts, and a dark/gold UI theme with dark/light mode toggle..
 
 ### 🏨 [Kuriftu Hotel Website](https://github.com/DuDu21cs/web_hotel)
 
