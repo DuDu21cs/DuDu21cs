@@ -78,12 +78,7 @@ A responsive hotel landing page with an attractive and user-friendly interface w
 * Contribute to open-source projects
 * Start my professional career in the technology industry
 
----
 
-## 📊 GitHub Stats
-
-![Duresa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuDu21cs&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuDu21cs&layout=compact&theme=tokyonight)
 
 ---
 
